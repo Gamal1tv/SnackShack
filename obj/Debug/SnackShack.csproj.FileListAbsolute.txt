@@ -1,0 +1,12 @@
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\bin\Debug\SnackShack.exe.config
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\bin\Debug\SnackShack.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\bin\Debug\SnackShack.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.Form1.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\SnackShack\obj\Debug\SnackShack.VendingMachine.resources

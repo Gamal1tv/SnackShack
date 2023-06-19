@@ -1,0 +1,13 @@
+3,ButterFinger,0.85
+4,Cheetos,0.6
+5,Hubba Bubba,0.65
+6,Kit Kat,0.6
+7,Lay's BBQ,0.55
+8,Milky Way,0.6
+9,Raisnets,0.5
+10,Snickers,0.6
+39,pringles,0.6
+40,utz,0.65
+43,airheads,0.6
+50,2fer,0.5
+51,extra,0.5
